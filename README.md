@@ -1,4 +1,4 @@
-# LightRAG Experiment
+# Knowledge -  A LightRAG Experiment
 
 Testing the lightweight RAG System on local setup using Ollama for local LLM operations.
 
